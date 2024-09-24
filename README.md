@@ -28,10 +28,6 @@ Este juego desafía a los usuarios a encontrar palabras ocultas dentro de una cu
 - **`style.css`**: Archivo que da estilo a los elementos de la página y la cuadrícula.
 - **`script.js`**: Lógica que maneja la interacción del usuario con el juego.
 
-## 📸 **Captura de Pantalla**
-
-![Captura de Pantalla del Juego](screenshot.png)
-
 ## 🛠️ **Instalación y Ejecución**
 1. Clona este repositorio:
    ```bash
