@@ -38,9 +38,9 @@ Este juego desafía a los usuarios a encontrar palabras ocultas dentro de una cu
    cd sopa-de-letras
    ```
 3. Abre el archivo `index.html` en tu navegador para jugar:
-   - Para abrirlo en Chrome:
+   - Para abrirlo en Visual Studio Code:
      ```bash
-     google-chrome index.html
+     code .
      ```
 
 ## 🏆 **Futuras Mejoras**
